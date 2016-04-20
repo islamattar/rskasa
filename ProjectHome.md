@@ -1,0 +1,1 @@
+RSKasa Accounting, entry level C#, Windows Accounting package for single users, small networks and distributed networks. Accomodates developer scripts, local plugins and multi language translation. Ideal for SME market.
